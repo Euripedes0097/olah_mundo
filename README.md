@@ -1,4 +1,4 @@
 # olah_mundo
 Olá, mundo!
 
-Estou seguindo o guia de iniciantes!
+Este repositório contempla a mensagem "Olá, mundo!" em diferentes linguagens.
